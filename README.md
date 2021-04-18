@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋, I'm Preston
+### What I'm Doing:
+- 🔭 I’m currently working on trying out different machine learning algorithms
+- 🌱 I’m currently learning about machine learning
+- 📫 How to reach me: Connect with me on [LinkedIn!](https://www.linkedin.com/in/thepmar/)
+
+
 
 <!--
 **pmar116/pmar116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love snowboarding and just became an instructor
 -->
