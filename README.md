@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Preston
 ### What I'm Doing:
-- 🔭 I’m currently working on trying out different machine learning algorithms
-- 🌱 I’m currently learning about machine learning
+- 🔭 I’m currently working on building websites
+- 🌱 I’m currently learning about React and .Net
 - 📫 How to reach me: Connect with me on [LinkedIn!](https://www.linkedin.com/in/thepmar/)
+- ⚡ Fun fact: I love snowboarding and am an instructor
 
 
 
@@ -18,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love snowboarding and just became an instructor
+- ⚡ Fun fact: I love snowboarding and am an instructor
 -->
